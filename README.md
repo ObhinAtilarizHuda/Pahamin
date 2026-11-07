@@ -82,7 +82,7 @@ Translate between any two of them, in either direction.
 |---|---|
 | Android | 10 or newer, 64-bit phone (arm64) |
 | Memory | 4 GB of RAM recommended |
-| Storage | About 820 MB download, around 1 GB free once installed |
+| Storage | About 820 MB download, around 1 GB free once installed. On Android 13 or older, keep 2 GB free after the download finishes, because installing needs extra temporary space. |
 
 1. Download `Pahamin-1.0.0.apk` from the [latest release](https://github.com/ObhinAtilarizHuda/Pahamin/releases/latest), preferably on Wi-Fi.
 2. Open the file. If Android asks, allow installs from your browser or file manager.
@@ -192,7 +192,7 @@ Pahamin is free to download and use. © 2026 devbon. All rights reserved.
 - Di HP kelas ekonomi, Indonesia dan Inggris butuh kurang dari sedetik per kalimat, sedangkan pasangan bahasa lain sekitar 2 sampai 6 detik.
 - Suara baca memakai suara bawaan HP, dan sebagian mungkin perlu diunduh dulu dari pengaturan text-to-speech.
 
-**Cara pasang:** unduh `Pahamin-1.0.0.apk`, buka filenya, dan izinkan pemasangan kalau Android meminta. Android mungkin memberi peringatan karena aplikasi ini dipasang dari luar Google Play. Itu wajar, tapi pastikan kamu mengunduhnya hanya dari halaman ini.
+**Cara pasang:** unduh `Pahamin-1.0.0.apk`, buka filenya, dan izinkan pemasangan kalau Android meminta. Di Android 13 ke bawah, pastikan masih ada 2 GB kosong setelah unduhan selesai, karena proses pasang butuh ruang sementara. Android mungkin memberi peringatan karena aplikasi ini dipasang dari luar Google Play. Itu wajar, tapi pastikan kamu mengunduhnya hanya dari halaman ini.
 
 Suka dengan Pahamin? Kamu bisa **[kasih tip lewat Sociabuzz](https://sociabuzz.com/devbon/support)**. Tip ini sukarela dan tidak membuka fitur apa pun.
 
